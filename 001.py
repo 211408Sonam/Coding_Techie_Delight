@@ -1,6 +1,4 @@
 """
-Techie Delight: 
-
 
 Given a set S of positive integers, determine if it can be partitioned into three disjoint subsets that all have the same sum, and they cover S.
 
